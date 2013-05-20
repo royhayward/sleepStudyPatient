@@ -14,7 +14,7 @@
 | path to your installation.
 |
 */
-$config['base_url']	= 'http://dag.dev';
+$config['base_url']	= 'http://sleeper.dev';
 
 /*
 |--------------------------------------------------------------------------

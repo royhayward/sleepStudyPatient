@@ -7,7 +7,7 @@
             <span class="icon-bar"></span>
           </a>
           <a class="brand" href="#">
-			<img src="../../bootstrap/img/DAG-logo-sm.png">
+			<img src="../../bootstrap/img/logo_sm.jpg">
 		  </a>
           <div class="nav-collapse collapse">
             <ul class="nav">

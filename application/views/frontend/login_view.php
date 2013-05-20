@@ -8,7 +8,7 @@
 		
 		<?php
 			echo form_open('login/validate', array('class'=>"form-signin"));
-			echo "<img src='../../bootstrap/img/DAG-logo.png'>";
+			echo "<img src='../../bootstrap/img/logo.jpg'>";
 			echo '<h2 class="form-signin-heading">Please sign in</h2>';
 			echo form_input(array('type' => 'text', 'name' => 'username', 'placeholder' => 'Email address', 'class'   => 'input-block-level'));
 			echo form_input(array('type' => 'password', 'name' => 'password', 'placeholder' => 'Password', 'class' => 'input-block-level'));
